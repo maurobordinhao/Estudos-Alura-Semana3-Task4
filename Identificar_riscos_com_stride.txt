@@ -17,10 +17,12 @@ R - (Repudiation)
 - Ex: O usuário de forma criminosa pode tentar negar ter realizado Login ou uma ação específica e sensível que ele fez, se não tiver logs ou trilhas adequadas.
 
 I - Information Disclosure) 
-- Ex: Pode ocorrer vazamento de informações sensíveis, mensagens de erro que revelam detalhes do sistema/linguagens/versões utilizadas, se determinado usuário existe ou não, credenciais expostas. Cibercriminosos podem causar essas situações e podem se aproveitar disso.
+- Ex: Pode ocorrer vazamento de informações sensíveis, mensagens de erro que revelam detalhes do sistema/linguagens/versões utilizadas, se determinado usuário existe ou não, credenciais expostas. 
+Cibercriminosos podem causar essas situações e podem se aproveitar disso.
 
 D - (Denial of Service) 
-- Ataques DOS que causam indisponibilidade do login e impedem usuários verdadeiros de acessarem o sistema, como por exemplo, tentativa de força bruta/sobrecarga no login. Esses ataques podem ser feitos por criminosos, bots,
+- Ataques DOS que causam indisponibilidade do login e impedem usuários verdadeiros de acessarem o sistema, como por exemplo, tentativa de força bruta/sobrecarga no login. 
+Esses ataques podem ser feitos por criminosos, bots,
 
 E - (Elevation of privilege) 
 - Ex: Exploração de falhas de segurança na autenticação que permitem a um criminoso acessar privilégios administrativos do sistema
