@@ -1,0 +1,24 @@
+Funcionalidade: Login
+
+Metodologia: STRIDE
+
+Abaixo serão listados os riscos que uma funcionalidade de Login pode enfrentar e quais são os tipos de atacantes que podem explorar esses riscos
+
+S - (Spoofing) 
+
+- Ex: Uma pessoa criminosa pode tentar se passar por outra pessoa que possui um login válido, utilizando credenciais vazadas, roubadas, ou senhas fracas
+
+T - (Tampeting) 
+- Ex: Modificação de dados de forma maliciosa por um hacker durante o processo de autenticação, alterando requisições ou tokens.
+
+R - (Repudiation) 
+- Ex: O usuário pode tentar negar ter realizado Login ou uma ação específica e sensível que ele fez, se não tiver logs ou trilhas adequadas.
+
+I - Information Disclosure) 
+- Ex: Vazamento de informações sensíveis, mensagens de erro que revelam detalhes do sistema/linguagens/versões utilizadas, ou credenciais expostas.
+
+D - (Denial of Service) 
+- Ataques DOS que causam indisponibilidade do login e impedem usuários verdadeiros de acessarem o sistema, como por exemplo, tentativa de força bruta/sobrecarga no login.
+
+E - (Elevation of privilege) 
+- Ex: Exploração de falhas na autenticação que permitem a um criminoso acessar privilégios administrativos do sistema
