@@ -30,7 +30,8 @@ Criar logs de acesso com horários e atividades para registro de ações do usu�
 
 I - Information Disclosure) - Clone da página (Cross Origin), Inspeção de logs, erros detalhados com informações internas ao invés de erros genéricos no terminal.
 
-    Ex: Pode ocorrer vazamento de informações sensíveis, mensagens de erro que revelam detalhes do sistema/linguagens/versões utilizadas, se determinado usuário existe ou não, credenciais expostas. Cibercriminosos podem causar essas situações e podem se aproveitar disso.
+    Ex: Pode ocorrer vazamento de informações sensíveis, mensagens de erro que revelam detalhes do sistema/linguagens/versões utilizadas, se determinado usuário existe ou não, credenciais expostas. 
+Cibercriminosos podem causar essas situações e podem se aproveitar disso.
 
 Maneiras de diminuir o problema:
 
